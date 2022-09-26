@@ -78,6 +78,7 @@ HELPER_SETTINGS = {
         ("polls.PollContent", get_all_poll_content_objects),
     ],
     "DEFAULT_AUTO_FIELD": "django.db.models.AutoField",
+    "CMS_CONFIRM_VERSION4": True,
 }
 
 
