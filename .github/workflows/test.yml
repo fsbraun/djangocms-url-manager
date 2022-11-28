@@ -14,6 +14,7 @@ jobs:
         requirements-file: [
             dj22_cms40.txt,
             dj32_cms40.txt,
+            dj41_cms41.txt
         ]
         os: [
             ubuntu-20.04,
